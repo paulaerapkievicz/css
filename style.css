@@ -1,0 +1,17 @@
+li {
+  color: green;
+}
+
+h1 {
+  border: 2px dashed #443354;
+  font-family: "Geostar", cursive;
+}
+h3 {
+  color: #443354;
+  font-family: "Geostar", cursive;
+}
+body {
+  background-image: url(https://starwalk.space/gallery/images/galilean-moons/750x422.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
